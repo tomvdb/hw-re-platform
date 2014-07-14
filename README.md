@@ -3,7 +3,8 @@ Hardware Reverse Engineering Learning Platform
 
 Current Status:
 
-2014/16/20: PCB's sent for manufacturing - Not Tested Yet
+2014/07/17: Boards received, concept works, pcb has some minor issues. Working on v2
+2014/06/20: PCB's sent for manufacturing - Not Tested Yet
 
 I enjoy trying to reverse engineer the famous crackme and reverseme executables in my spare time. After reading the xbox reverse engineering book by bunnie I went looking at the my options for learning and experimenting with hardware reverse engineering. Unfortunately the options are few and expensive.
 
